@@ -1,1 +1,1 @@
-Este repositório é destinado às atividades de Banco de Dados (BCD).
+# Este repositório é destinado às atividades de Banco de Dados (BCD).
